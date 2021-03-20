@@ -23,7 +23,7 @@ idna==2.6
 ipython==5.5.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 kazam==1.4.5
 louis==3.5.0
 macaroonbakery==1.1.3
